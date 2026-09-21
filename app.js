@@ -1,5 +1,6 @@
-function greet(name) {
-  return "Halo, " + name;
+function greet(name) { 
+
+   return "Halo, " + name + "!";
 }
 
 function add(a, b) {
